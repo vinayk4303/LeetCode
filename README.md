@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinayk4303/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vinayk4303/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vinayk4303/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vinayk4303/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/vinayk4303/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vinayk4303/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vinayk4303/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinayk4303/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vinayk4303/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/vinayk4303/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vinayk4303/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vinayk4303/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinayk4303/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vinayk4303/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vinayk4303/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/vinayk4303/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vinayk4303/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vinayk4303/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vinayk4303/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/vinayk4303/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinayk4303/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/vinayk4303/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

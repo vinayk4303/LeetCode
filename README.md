@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vinayk4303/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vinayk4303/LeetCode/tree/master/0189-rotate-array) |
 | [2235-add-two-integers](https://github.com/vinayk4303/LeetCode/tree/master/2235-add-two-integers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vinayk4303/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |

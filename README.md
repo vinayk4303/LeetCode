@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vinayk4303/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vinayk4303/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayk4303/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/vinayk4303/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1748-sum-of-unique-elements](https://github.com/vinayk4303/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/vinayk4303/LeetCode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vinayk4303/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vinayk4303/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vinayk4303/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/vinayk4303/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vinayk4303/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vinayk4303/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayk4303/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vinayk4303/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vinayk4303/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/vinayk4303/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vinayk4303/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vinayk4303/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vinayk4303/LeetCode/tree/master/0189-rotate-array) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinayk4303/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vinayk4303/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

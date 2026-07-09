@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayk4303/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vinayk4303/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinayk4303/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinayk4303/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vinayk4303/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vinayk4303/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vinayk4303/LeetCode/tree/master/0217-contains-duplicate) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vinayk4303/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vinayk4303/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/vinayk4303/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinayk4303/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vinayk4303/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vinayk4303/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayk4303/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vinayk4303/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/vinayk4303/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinayk4303/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinayk4303/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayk4303/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/vinayk4303/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sliding Window
